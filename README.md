@@ -2,7 +2,7 @@
 
 The Objective of the project is to create and design a system which solves problems faced by the Indian public transport system revolves around the unwillingness of the users to opt for public transport. One of the most important, yet easily unnoticed, aspects about fleet management is preventative care and maintenance. It's not the quality of a vehicle's build that causes a premature demise, but rather improper maintenance. Given a lot of fleet data, our team would analyze it, so we can promote a more pro-active, instead of reactive, approach to maintenance, thus ultimately saving a company money and preventing unnecessary waste.
 
-*** Click on the folder Fleet-Management-for-Public-Transport to view the folders and files of Sourcecode respectively.*****
+*** Click on the folder Fleet Management for Public Transport to view the folders and files of Sourcecode respectively.*****
 
 Explanation of the project
 
