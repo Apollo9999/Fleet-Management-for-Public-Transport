@@ -43,6 +43,7 @@ Built With Android Studio Firebase Echo Ar PyreBase Python Java
 
 ***Solution Derived with below Hypothesis and Test Data***
 
+
 **Key metrics are mentioned**  
 1.	aop = Area of operation. For each vehicle, found the furthest Northern, Easter, Southern, and Western latitude/longitude coordinates. Stored monthly and total furthest points.
 2.	frpv = fuel ratio per vehicle. For each vehicle, calculated the fuel/hour ratio. A high ratio should indicate that a vehicle is working hard and will require more frequent maintenance. Stored averages daily, monthly, total, per 150 hours, and per 300 hours. 150 hours was chosen because this is when oil fitlers are typically replaced. 300 hours was chosen because this is when fuel filters are typically replaced
@@ -55,7 +56,7 @@ Some of these vehicles could have failed the t-test because certain months did n
 
 The data used for the t-test:
 
-frpv_month 
+frpv_month https://github.com/Apollo9999/FleetManagementforPublicTransport/blob/main/frpv_month.csv
 
-frpv_total 
+frpv_total https://github.com/Apollo9999/FleetManagementforPublicTransport/blob/main/frpv_total.csv
 
