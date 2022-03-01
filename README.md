@@ -4,13 +4,17 @@ The Objective of the project is to create and design a system which solves probl
 
 *** Click on the folder Fleet Management for Public Transport to view the folders and files of Sourcecode respectively.*****
 
-Explanation of the project
+***Explanation of the project***
+
+Fleet Management for Public Transport is an Android App that predicts when a vehicle will require servicing and the type of servicing.
+
+**Salient Features of the Android application**
 
 A user can log into the app and check up on their fleet of vehicles. The user can add new vehicle by simply scanning the QR code containing vehicle number .From there, a python script manipulated the data given to find vehicles that need service/maintenance. The app will then tell the user which vehicles need what service, and the user can easily locate what vehicles need service by using augmented reality and location data! It chiefly takes into consideration the work laod over engine to compute the next required service check but also the other two main features are that it will use the latitude longitude data along with timestamp to check for weather log at that day, and also it would leverage the location data to find out terrain of the location. The weather and terrain form two important factor alongside of mileage/fuel efficiency of vehicle these all parameters are taken into consideration to find out when is next maintenance required and what type of maintenance is required. Based on location it suggests the nearest service station at the time of required maintenance.
 
 public transport is not maintained with proper hygiene which discourages a large proportion of the commuters from using them.
 
-. public transport Fleet management is all about keeping costs reasonable, maximizing profitability, and minimizing risk.
+public transport Fleet management is all about keeping costs reasonable, maximizing profitability, and minimizing risk.
 
 
  ***Solution Track Location***:
